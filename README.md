@@ -1,8 +1,6 @@
 # 🔐 MFA-AUTH-APP
 
 Aplicación web con autenticación multifactor (MFA) utilizando Google Authenticator o Microsoft Authenticator.  
-Segura, sencilla y con diseño moderno. Ideal como ejemplo práctico de protección con doble factor de autenticación.
-
 ---
 
 ## 🚀 Características principales
