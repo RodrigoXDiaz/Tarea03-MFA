@@ -29,17 +29,6 @@ Segura, sencilla y con diseño moderno. Ideal como ejemplo práctico de protecci
 
 ---
 
-## 📸 Capturas de pantalla
-
-| Registro                        | Verificación MFA                  | Dashboard Final                |
-|---------------------------------|-----------------------------------|-------------------------------|
-| ![Registro](./screenshots/register.png) | ![Verificación](./screenshots/verify.png) | ![Dashboard](./screenshots/dashboard.png) |
-
-> Puedes generar tus propias capturas al ejecutar la app.  
-> Crea una carpeta `screenshots/` si deseas incluirlas en tu informe o repositorio.
-
----
-
 ## 📦 Instalación y ejecución
 
 1. Clona el repositorio:
